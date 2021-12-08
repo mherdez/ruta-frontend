@@ -1,6 +1,8 @@
 module.exports = {
   title: 'Ruta Frontend',
   description: 'Ruta Frontend',
+  dest: 'docs',
+  base: '/ruta-frontend/',
   head: [
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
@@ -9,8 +11,6 @@ module.exports = {
   themeConfig: {
     editLinks: false,
     lastUpdated: false,
-    dest: 'docs',
-    base: '/ruta-frontend/',
     nav: [
       {
         text: 'Guía',
