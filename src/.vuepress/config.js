@@ -39,7 +39,7 @@ module.exports = {
     // }
     sidebar: [
       '/',
-      // '/01-ejemplo/',
+      '/01-bases/',
     ]
   },
 
