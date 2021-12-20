@@ -40,6 +40,9 @@ module.exports = {
     sidebar: [
       '/',
       '/01-bases/',
+      '/02-react/',
+      '/03-vue/',
+      '/04-complementos/',
     ]
   },
 
