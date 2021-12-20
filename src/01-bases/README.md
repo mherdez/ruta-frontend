@@ -8,7 +8,7 @@
 - Curso de programación orientada a objetos
 -->
 
-# Ruta Frontend
+# Ruta de aprendizaje
 
 ## Introducción
 - Requisitos mínimos para programación Frontend
@@ -34,16 +34,10 @@
 - CSS. Lenguaje de presentación
 - Maquetación y layout
 - Flex y Grid
-- Media Queries
+- Responsive. Media Queries
 
-## HTML y CSS (Complemento)
-- Accesibilidad y optimización Web
-- FIGMA. Diseño de interfaces
-- Bootstrap. Biblioteca de estilos
-- SASS. Preprocesador de CSS
-
-## JavaScript Básico
-- Introducción a JavaScript
+## JavaScript. Introducción
+- Fundamentos
     + Variables
     + Tipos de datos
     + Operadores
@@ -53,7 +47,7 @@
 - Funciones
 - Arreglos
 
-## JavaScript DOM
+## JavaScript. DOM
 - Introducción a JavaScript DOM
 - Elementos. Terminología DOM
 - Recorrido
@@ -62,9 +56,8 @@
 - Atributos y propiedades
 - Modificación del DOM
 - Estilos y clases
--
 
-## JavaScript Orientado a Objetos
+## JavaScript. Orientado a Objetos
 - Objetos
 - Clases
 - Métodos
@@ -73,20 +66,27 @@
 - Async/Await
 - Fetch/Axios
 
-## Pruebas unitarias para JavaScript (Complemento)
--   Jest
+## JavaScript. REACT
+## JavaScript. VUE
 
-:::tip ## JavaScript (Complemento)
+## Complementos
+### HTML y CSS
+- Accesibilidad y optimización Web
+- FIGMA. Diseño de interfaces
+- Bootstrap. Biblioteca de estilos
+- SASS. Preprocesador de CSS
+
+### JavaScript 
 - JQuery y AJAX. Biblioteca de JavaScript
 - API REST
 - Babel. Traductor de ECMAScript 6 a ECMAScript 5
 - Webpack. Manejador de dependencias
 - TypeScript. Traductor de ECMAScript 5 a ECMAScript 6
-:::
+- Javscript Svelte
+- Javascript Remix.run
 
-## JavaScript Intermedio. Bibliotecas y Frameworks
-- React
-- Angular
-- Vue
-- Svelte
-- Remix.run
+
+### Pruebas unitarias para JavaScript
+-   Jest
+
+
