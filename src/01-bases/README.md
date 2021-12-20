@@ -1,13 +1,3 @@
-<!-- 
-- Curso de Computación Básica
-- Curso Gratis de Programación Básica
-- Curso Básico de Algoritmos y Pensamiento Lógico
-- Curso de Introducción a la Web: Historia y Funcionamiento de Internet
-- Fundamentos de Ingeniería de Software 
-- Curso de flujo de desarrollo moderno CodeStream
-- Curso de programación orientada a objetos
--->
-
 # Ruta de aprendizaje
 
 ## Introducción
@@ -90,3 +80,12 @@
 -   Jest
 
 
+<!-- 
+- Curso de Computación Básica
+- Curso Gratis de Programación Básica
+- Curso Básico de Algoritmos y Pensamiento Lógico
+- Curso de Introducción a la Web: Historia y Funcionamiento de Internet
+- Fundamentos de Ingeniería de Software 
+- Curso de flujo de desarrollo moderno CodeStream
+- Curso de programación orientada a objetos
+-->
