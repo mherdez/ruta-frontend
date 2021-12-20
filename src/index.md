@@ -1,4 +1,4 @@
-# Ruta FrontEnd
+# Ruta Frontend
 
 ## Sesiones de formación
 - Preparación
