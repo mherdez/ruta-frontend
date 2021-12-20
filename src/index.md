@@ -1,4 +1,4 @@
-# Ruta Frontend
+# Metodología
 
 ## Sesiones de formación
 - Preparación
@@ -72,7 +72,7 @@
     + De desarrollo
     + De formación
     
-:::warning NOTA PARA EL AUTOR
+<!-- :::warning NOTA PARA EL AUTOR
 
 Definir:
 - Ruta de aprendizaje
@@ -80,4 +80,4 @@ Definir:
     + Lenguajes
 - Recursos
 - Tiempos
-:::
+::: -->
