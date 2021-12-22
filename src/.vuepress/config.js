@@ -44,7 +44,7 @@ module.exports = {
       // '/03-react/',
       // '/04-vue/',
       '/05-proyectos/',
-      '/06-bonus/',
+      '/06-talleres/',
     ]
   },
 

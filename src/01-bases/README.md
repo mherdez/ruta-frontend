@@ -1,6 +1,6 @@
 # Ruta de aprendizaje
 
-## Introducción ( 5h )
+## Introducción  <!-- ( 5 h ) -->
 - Requisitos mínimos para programación Frontend
 - Configuración de Entorno de Desarrollo 
     + Visual Studio Code
@@ -20,7 +20,7 @@
     + Mantenimiento de software
 
 ~~~txt
-Taller. 5h
+Taller. (5h)
 ~~~
 
 <!-- NOTAS PARA DESARROLLAR:
@@ -29,7 +29,7 @@ Taller. 5h
 - Rrealizar la guía
 - Armar las presentaciones -->
 
-## HTML y CSS ( 15h )
+## HTML y CSS <!-- ( 15h ) -->
 - HTML. Lenguaje de marcado estructurado
 - Semántica
 - CSS. Lenguaje de presentación
@@ -42,8 +42,8 @@ Hoja de vida
 ~~~
 
 ~~~txt
-Sesión. Portafolio.   5h
-Taller. Hoja de vida. 5h
+Sesión. Portafolio.   (10h)
+Taller. Hoja de vida.  (5h)
 ~~~
 
 <!-- NOTA:
@@ -51,7 +51,7 @@ Taller. Hoja de vida. 5h
 - Realizar el ejercicio con elementos básicos
 - Realizar la guía -->
 
-## CSS. Layouts ( 10h )
+## CSS. Layouts <!-- ( 10h ) -->
 - Flex
 - Grid
 - Responsive. Media Queries
@@ -63,15 +63,15 @@ Componentes
 ~~~
 
 ~~~txt
-Sesión. Portafolio.   5h
-Taller. Hoja de vida. 5h
+Sesión. Portafolio.   (5h)
+Taller. Hoja de vida. (5h)
 ~~~
 
 <!-- NOTA:
 - Realizar el ejercicio con layout y responsive
 - Realizar la guía -->
 
-## JavaScript. Introducción ( 15h )
+## JavaScript. Introducción <!-- ( 15h ) -->
 - Fundamentos
     + Variables
     + Tipos de datos
@@ -89,8 +89,8 @@ Colecciones
 ~~~
 
 ~~~txt
-Sesión. Matemáticos. 10h
-Taller. Matemáticos.  5h
+Sesión. Matemáticos. (10h)
+Taller. Matemáticos.  (5h)
 ~~~
 
 <!-- NOTA:
@@ -98,7 +98,7 @@ Taller. Matemáticos.  5h
 - Realizar el ejercicio
 - Al concluir la sesión se generan archivos independientes por tema con los comentarios de los ejercicios realizados  -->
 
-## JavaScript. DOM ( 10h )
+## JavaScript. DOM <!-- ( 10h ) -->
 - Introducción a JavaScript DOM
 - Elementos. Terminología DOM
 - Recorrido
@@ -115,8 +115,8 @@ Componentes
 ~~~
 
 ~~~txt
-Sesión. Juego.      5h
-Taller. Componente. 5h
+Sesión. Juego.      (5h)
+Taller. Componente. (5h)
 ~~~
 
 <!-- NOTA:
@@ -124,7 +124,7 @@ Taller. Componente. 5h
 - Realizar el ejercicio 
 - Realizar la guía -->
 
-## JavaScript. Orientado a Objetos ( 20h )
+## JavaScript. Orientado a Objetos <!-- ( 20h ) -->
 - Objetos
 - Clases
 - Métodos
@@ -140,8 +140,8 @@ Web app
 ~~~
 
 ~~~txt
-Sesión. API Rest.  15h
-Taller. Componente. 5h
+Sesión. API Rest.   (15h)
+Taller. Componente.  (5h)
 ~~~
 
 <!-- NOTA:
@@ -149,11 +149,11 @@ Taller. Componente. 5h
 - Realizar el ejercicio 
 - Realizar la guía -->
 
-## Talleres ( 15h )
+## Talleres <!-- ( 15h ) -->
 ~~~txt
-Taller HTML-CSS. Landing page. 5h
-Taller JS DOM. Juego.          5h
-Taller JS POO. Web app.        5h
+HTML-CSS. Landing page.  (5h)
+JavaScript DOM. Juego.   (5h)
+JavaScript POO. Web app. (5h)
 ~~~
 
 <!-- NOTA:
