@@ -8,6 +8,7 @@ module.exports = {
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
   ],
+  theme: 'default-prefers-color-scheme',
   themeConfig: {
     editLinks: false,
     lastUpdated: false,
