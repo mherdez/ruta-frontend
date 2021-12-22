@@ -23,6 +23,12 @@
 Taller. 5h
 ~~~
 
+<!-- NOTAS PARA DESARROLLAR:
+- Imagen de las presentaciones
+- Realizar la práctica de instalación
+- Rrealizar la guía
+- Armar las presentaciones -->
+
 ## HTML y CSS ( 15h )
 - HTML. Lenguaje de marcado estructurado
 - Semántica
@@ -40,6 +46,11 @@ Sesión. Portafolio.   5h
 Taller. Hoja de vida. 5h
 ~~~
 
+<!-- NOTA:
+- Elegir el modelo de ambos proyectos
+- Realizar el ejercicio con elementos básicos
+- Realizar la guía -->
+
 ## CSS. Layouts ( 10h )
 - Flex
 - Grid
@@ -55,6 +66,10 @@ Componentes
 Sesión. Portafolio.   5h
 Taller. Hoja de vida. 5h
 ~~~
+
+<!-- NOTA:
+- Realizar el ejercicio con layout y responsive
+- Realizar la guía -->
 
 ## JavaScript. Introducción ( 15h )
 - Fundamentos
@@ -78,6 +93,11 @@ Sesión. Matemáticos. 10h
 Taller. Matemáticos.  5h
 ~~~
 
+<!-- NOTA:
+- Elegir ejercicios y operaciones matemáticas
+- Realizar el ejercicio
+- Al concluir la sesión se generan archivos independientes por tema con los comentarios de los ejercicios realizados  -->
+
 ## JavaScript. DOM ( 10h )
 - Introducción a JavaScript DOM
 - Elementos. Terminología DOM
@@ -99,6 +119,11 @@ Sesión. Juego.      5h
 Taller. Componente. 5h
 ~~~
 
+<!-- NOTA:
+- Elegir el modelo de ambos proyectos
+- Realizar el ejercicio 
+- Realizar la guía -->
+
 ## JavaScript. Orientado a Objetos ( 20h )
 - Objetos
 - Clases
@@ -119,9 +144,19 @@ Sesión. API Rest.  15h
 Taller. Componente. 5h
 ~~~
 
+<!-- NOTA:
+- Elegir el modelo de ambos proyectos
+- Realizar el ejercicio 
+- Realizar la guía -->
+
 ## Talleres ( 15h )
 ~~~txt
 Taller HTML-CSS. Landing page. 5h
 Taller JS DOM. Juego.          5h
 Taller JS POO. Web app.        5h
 ~~~
+
+<!-- NOTA:
+- Elegir el modelo de los proyectos
+- Realizar el ejercicio 
+- Realizar la guía -->
