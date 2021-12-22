@@ -35,8 +35,8 @@ Taller. (5h)
 - CSS. Lenguaje de presentación
 - Modelo de caja
 - Posiciones    
-<!-- 
-~~~html
+
+<!-- ~~~html
 Portafolio
 Hoja de vida
 ~~~ -->
