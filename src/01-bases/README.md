@@ -1,6 +1,6 @@
 # Ruta de aprendizaje
 
-## Introducción
+## Introducción ( 5h )
 - Requisitos mínimos para programación Frontend
 - Configuración de Entorno de Desarrollo 
     + Visual Studio Code
@@ -19,7 +19,11 @@
     + Pruebas de software
     + Mantenimiento de software
 
-## HTML y CSS
+~~~txt
+Taller. 5h
+~~~
+
+## HTML y CSS ( 15h )
 - HTML. Lenguaje de marcado estructurado
 - Semántica
 - CSS. Lenguaje de presentación
@@ -31,7 +35,12 @@ Portafolio
 Hoja de vida
 ~~~
 
-## CSS. Layouts
+~~~txt
+Sesión. Portafolio.   5h
+Taller. Hoja de vida. 5h
+~~~
+
+## CSS. Layouts ( 10h )
 - Flex
 - Grid
 - Responsive. Media Queries
@@ -41,7 +50,13 @@ Portafolio
 Hoja de vida
 Componentes
 ~~~
-## JavaScript. Introducción
+
+~~~txt
+Sesión. Portafolio.   5h
+Taller. Hoja de vida. 5h
+~~~
+
+## JavaScript. Introducción ( 15h )
 - Fundamentos
     + Variables
     + Tipos de datos
@@ -51,13 +66,19 @@ Componentes
     + Ciclos
 - Funciones
 - Arreglos
+
 ~~~html
 Matemáticos
 Arreglos
 Colecciones
 ~~~
 
-## JavaScript. DOM
+~~~txt
+Sesión. Matemáticos. 10h
+Taller. Matemáticos.  5h
+~~~
+
+## JavaScript. DOM ( 10h )
 - Introducción a JavaScript DOM
 - Elementos. Terminología DOM
 - Recorrido
@@ -69,10 +90,16 @@ Colecciones
 
 ~~~html
 Juegos
-Componentes
 Landing page
+Componentes
 ~~~
-## JavaScript. Orientado a Objetos
+
+~~~txt
+Sesión. Juego.      5h
+Taller. Componente. 5h
+~~~
+
+## JavaScript. Orientado a Objetos ( 20h )
 - Objetos
 - Clases
 - Métodos
@@ -82,7 +109,19 @@ Landing page
 - Fetch/Axios
 
 ~~~html
+Componentes interactivos
 API Rest
 Web app
-Componentes interactivos
+~~~
+
+~~~txt
+Sesión. API Rest.  15h
+Taller. Componente. 5h
+~~~
+
+## Talleres ( 15h )
+~~~txt
+Taller HTML-CSS. Landing page. 5h
+Taller JS DOM. Juego.          5h
+Taller JS POO. Web app.        5h
 ~~~
