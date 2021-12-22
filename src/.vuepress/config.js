@@ -43,7 +43,8 @@ module.exports = {
       '/02-especializacion/',
       // '/03-react/',
       // '/04-vue/',
-      '/05-bonus/',
+      '/05-proyectos/',
+      '/06-bonus/',
     ]
   },
 

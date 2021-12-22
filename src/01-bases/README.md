@@ -11,6 +11,7 @@
     + Referencias y recursos 
         - Mozilla Developer Network
 - Terminal y Línea de Comandos
+- Npm, Yarn
 - Git y GitHub
 - Ciclo de desarrollo de software
     + Creación de proyectos
@@ -22,10 +23,24 @@
 - HTML. Lenguaje de marcado estructurado
 - Semántica
 - CSS. Lenguaje de presentación
-- Maquetación y layout
-- Flex y Grid
+- Modelo de caja
+- Posiciones    
+
+~~~html
+Portafolio
+Hoja de vida
+~~~
+
+## CSS. Layouts
+- Flex
+- Grid
 - Responsive. Media Queries
 
+~~~html
+Portafolio
+Hoja de vida
+Componentes
+~~~
 ## JavaScript. Introducción
 - Fundamentos
     + Variables
@@ -36,6 +51,11 @@
     + Ciclos
 - Funciones
 - Arreglos
+~~~html
+Matemáticos
+Arreglos
+Colecciones
+~~~
 
 ## JavaScript. DOM
 - Introducción a JavaScript DOM
@@ -47,6 +67,11 @@
 - Modificación del DOM
 - Estilos y clases
 
+~~~html
+Juegos
+Componentes
+Landing page
+~~~
 ## JavaScript. Orientado a Objetos
 - Objetos
 - Clases
@@ -56,12 +81,8 @@
 - Async/Await
 - Fetch/Axios
 
-<!-- 
-- Curso de Computación Básica
-- Curso Gratis de Programación Básica
-- Curso Básico de Algoritmos y Pensamiento Lógico
-- Curso de Introducción a la Web: Historia y Funcionamiento de Internet
-- Fundamentos de Ingeniería de Software 
-- Curso de flujo de desarrollo moderno CodeStream
-- Curso de programación orientada a objetos
--->
+~~~html
+API Rest
+Web app
+Componentes interactivos
+~~~

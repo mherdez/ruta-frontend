@@ -2,9 +2,13 @@
 
 ## HTML y CSS
 - Accesibilidad y optimización Web
+- Terminal y Línea de Comandos
+- Git y GitHub
 - FIGMA. Diseño de interfaces
 - Bootstrap. Biblioteca de estilos
 - SASS. Preprocesador de CSS
+- Layout / Templates
+- Propiedades lógicas de CSS
 
 ## JavaScript 
 - JQuery y AJAX. Biblioteca de JavaScript
