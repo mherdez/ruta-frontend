@@ -35,11 +35,11 @@ Taller. (5h)
 - CSS. Lenguaje de presentación
 - Modelo de caja
 - Posiciones    
-
+<!-- 
 ~~~html
 Portafolio
 Hoja de vida
-~~~
+~~~ -->
 
 ~~~txt
 Sesión. Portafolio.   (10h)
@@ -56,11 +56,11 @@ Taller. Hoja de vida.  (5h)
 - Grid
 - Responsive. Media Queries
 
-~~~html
+<!-- ~~~html
 Portafolio
 Hoja de vida
 Componentes
-~~~
+~~~ -->
 
 ~~~txt
 Sesión. Portafolio.   (5h)
@@ -82,11 +82,11 @@ Taller. Hoja de vida. (5h)
 - Funciones
 - Arreglos
 
-~~~html
+<!-- ~~~html
 Matemáticos
 Arreglos
 Colecciones
-~~~
+~~~ -->
 
 ~~~txt
 Sesión. Matemáticos. (10h)
@@ -108,11 +108,11 @@ Taller. Matemáticos.  (5h)
 - Modificación del DOM
 - Estilos y clases
 
-~~~html
+<!-- ~~~html
 Juegos
 Landing page
 Componentes
-~~~
+~~~ -->
 
 ~~~txt
 Sesión. Juego.      (5h)
@@ -133,11 +133,11 @@ Taller. Componente. (5h)
 - Async/Await
 - Fetch/Axios
 
-~~~html
+<!-- ~~~html
 Componentes interactivos
 API Rest
 Web app
-~~~
+~~~ -->
 
 ~~~txt
 Sesión. API Rest.   (15h)
